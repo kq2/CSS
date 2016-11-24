@@ -1,5 +1,5 @@
-# CSS
+# CSS Tricks
 
-[CSS tricks](https://kq2.github.io/CSS)
+[Examples](https://kq2.github.io/CSS)
 
  * Speech bubbles
