@@ -1,0 +1,21 @@
+.card {
+    width: 320px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+
+.image {
+    height: 180px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-image: url('https://purple.socialgear.us/huskar-1.0.0/uploads/201609/39a6d1b301174c40b96fbfd702a2f6d2');
+    background-size: cover;
+}
+
+.footer {
+    height: 70px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: white;
+}
