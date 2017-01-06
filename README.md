@@ -6,3 +6,5 @@
  * Circle avatar
  * Sink buttons
  * Image card
+ * Math expressions
+ * GitHub Gist
